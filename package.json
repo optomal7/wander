@@ -1,0 +1,32 @@
+{
+  "name": "wander",
+  "version": "1.0.0",
+  "description": "The travel social website worth going to.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optomal7/wander.git"
+  },
+  "keywords": [
+    "travel",
+    "social",
+    "express",
+    "javascript",
+    "webapp"
+  ],
+  "author": "DangerMaus",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/optomal7/wander/issues"
+  },
+  "homepage": "https://github.com/optomal7/wander#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "passport": "^0.4.0"
+  }
+}
